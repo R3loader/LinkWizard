@@ -57,7 +57,7 @@
     <li>Run the installation script:</li>
 </ol>
 
-<code>python download.py</code>
+<code>python start.py</code>
 
 <h2>Usage</h2>
 
