@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>LinkWizard Installation Guide</title>
 </head>
 <body>
 
@@ -72,7 +71,7 @@
 
 <h2>Author</h2>
 
-<p>Created by <a href="https://github.com/R3loader">Your Name</a></p>
+<p>Created by <a href="https://github.com/R3loader">R3loader</a></p>
 
 <h2>Links</h2>
 
