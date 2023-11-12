@@ -41,7 +41,7 @@ def launcher():
                "⬇️buy me a coffe⬇️\n" +
               "https://www.buymeacoffee.com/r3oader\n" +
               "⬇️telegram⬇️\n" +
-              "https://t.me/termuxguid\n")
+              "https://t.me/+BJ3xV4g4sGQzMjcyn")
     else:
         print("\n\n")
 
